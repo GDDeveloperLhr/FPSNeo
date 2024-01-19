@@ -1,0 +1,2 @@
+com/DefaultCompany/SniperShooter/BuildConfig.java
+ com.DefaultCompany.SniperShooter.BuildConfig
